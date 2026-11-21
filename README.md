@@ -1,4 +1,4 @@
-# agriai — 3-cluster / 3-GPU DDP (RISMA)
+# agriai 3-cluster / 3-GPU DDP (RISMA)
 
 This repo is the **Carman | Sturgeon | Kenaston** distributed training path only.
 One GPU per cluster, three ranks total. Nothing else from the broader pipeline is here on purpose.
@@ -14,7 +14,6 @@ That launches `torch.distributed.run --nproc_per_node=3` and trains `td_mlp` at 
 
 Outputs land under:
 `graph/risma_processed/step10/e3_followup/cluster3_ddp/`
-(created at run time; not checked in).
 
 ## File map
 
@@ -32,8 +31,7 @@ Outputs land under:
 | `graph/risma_pipeline/intraday_precip_features.py` | Intraday precip feature names (imported even on the daily path). |
 | `requirements.txt` | Minimal Python deps for this slice. |
 
-## Rank layout (fixed)
-
+## Rank layout
 - **GPU 0 / rank 0** — Carman–Elm Creek (MB1, MB2, MB3, MB5, MB9)
 - **GPU 1 / rank 1** — Sturgeon Creek (MB10, MB11, MB12)
 - **GPU 2 / rank 2** — Kenaston (SK1–SK4)
