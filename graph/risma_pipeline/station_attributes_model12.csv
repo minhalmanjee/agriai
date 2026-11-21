@@ -1,0 +1,13 @@
+station,lat,lon,cluster,province,has_solar,sand_pct,silt_pct,clay_pct,texture_source
+RISMA_MB1,49.56234,-98.01924,Carman_Elm_Creek,MB,1,,,,"AAFC portal metadata; texture fractions not in export — fill when available"
+RISMA_MB2,49.4925,-97.93374,Carman_Elm_Creek,MB,1,,,,"AAFC portal metadata; texture fractions not in export — fill when available"
+RISMA_MB3,49.51951,-97.95649,Carman_Elm_Creek,MB,1,,,,"AAFC portal metadata; texture fractions not in export — fill when available"
+RISMA_MB5,49.62145,-97.95781,Carman_Elm_Creek,MB,1,,,,"AAFC portal metadata; texture fractions not in export — fill when available"
+RISMA_MB9,49.69462,-98.02397,Carman_Elm_Creek,MB,1,,,,"AAFC portal metadata; texture fractions not in export — fill when available"
+RISMA_MB10,49.97536,-97.34829,Sturgeon_Creek,MB,1,,,,"AAFC portal metadata; texture fractions not in export — fill when available"
+RISMA_MB11,50.11131,-97.57337,Sturgeon_Creek,MB,1,,,,"AAFC portal metadata; texture fractions not in export — fill when available"
+RISMA_MB12,50.18998,-97.59801,Sturgeon_Creek,MB,1,,,,"AAFC portal metadata; texture fractions not in export — fill when available"
+RISMA_SK1,51.33484,-106.56494,Kenaston,SK,0,,,,"AAFC portal metadata; texture fractions not in export — fill when available"
+RISMA_SK2,51.335042,-106.563899,Kenaston,SK,0,,,,"AAFC portal metadata; texture fractions not in export — fill when available"
+RISMA_SK3,51.384154,-106.469228,Kenaston,SK,0,,,,"AAFC portal metadata; texture fractions not in export — fill when available"
+RISMA_SK4,51.381637,-106.415833,Kenaston,SK,0,,,,"AAFC portal metadata; texture fractions not in export — fill when available"
